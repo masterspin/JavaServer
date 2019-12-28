@@ -1,5 +1,5 @@
 //ritz363
-
+//make sure to reset port 8080 or use a new port when restarting the program
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
